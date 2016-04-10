@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#CD8023;}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="24.9618" y1="13.7301" x2="70.3855" y2="92.4062">
+	<stop  offset="0" style="stop-color:#D59926"/>
+	<stop  offset="1" style="stop-color:#CE8323"/>
+</linearGradient>
+<path class="st0" d="M68.8,62.5L84.7,57l0.5,2.8l4.9-9.9l-8.9-12.6l0.6,3.5l-8.2-2.2l7.6-3.9l-3.5-18.9L48.7,0
+	c0,0-21.8,21.3-29.6,28.9c-2.2,2.1-8.6,8.7-7.2,17.6l0,0c0.3-5.5,2.6-11,7.9-15.8c8.3-7.5,28.5-26.2,28.5-26.2
+	c2.2,11.7,3.8,20.8,3.8,20.8L25.9,44.1l1.2,6.3l26.6-17l3.8,20.8L30.1,66.5l1.2,6.3L59,62.2L62.8,83L19.9,94.1l69.8-12.9L86.4,63
+	L68.8,62.5z"/>
+<polygon class="st1" points="81.2,34.7 73.6,38.5 53.8,33.3 27.2,50.3 26,44 52.3,25.2 "/>
+<polygon class="st1" points="85.3,56.7 68.8,62.4 59.1,62.1 31.3,72.7 30.1,66.4 57.6,54 "/>
+<polygon class="st1" points="81.1,34.7 73.6,38.5 53.7,33.3 27.1,50.3 25.9,44 52.2,25.2 "/>
+<polygon class="st1" points="85.2,56.7 68.8,62.4 59,62.1 31.2,72.7 30.1,66.4 57.6,54 "/>
+<polygon class="st1" points="89.7,81.1 19.9,94 62.8,82.9 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="18.4603" y1="55.5729" x2="54.5705" y2="55.5729">
+	<stop  offset="0" style="stop-color:#D59926"/>
+	<stop  offset="1" style="stop-color:#CE8323"/>
+</linearGradient>
+<polygon class="st2" points="54.6,52.4 51.9,37.8 26,53.7 24.2,45 18.5,63 30.1,73.3 28.3,64.8 "/>
+<polygon class="st1" points="26,53.7 53.5,47.1 51.9,37.8 "/>
+<g>
+	<polygon class="st3" points="58.5,37.7 66.3,39.5 66.7,41.9 61.6,40.7 62,43.5 66.7,44.4 67.2,47.1 62.5,46.2 63.1,49.1 68.4,49.8 
+		68.9,52.4 61.1,51.7 	"/>
+	<polygon class="st3" points="67.7,42.6 69.8,43 71.6,46 72.3,43.5 74.1,43.9 72.8,48 76.2,53.2 74.2,53 72.2,50 71.6,52.8 
+		69.5,52.6 70.9,47.9 	"/>
+	<polygon class="st3" points="74.1,41.2 76.7,53.4 82.4,53.9 81.8,51.7 77.9,51.2 77.3,48.6 80.7,49.2 80.3,47.1 76.9,46.5 
+		76.4,43.9 80.2,44.8 79.8,42.8 	"/>
+</g>
+</svg>
